@@ -1,6 +1,6 @@
 ## Hola, I'm [PhuongNguyen!] 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=png261&label=Views&color=blue&style=plastic" alt="png261" /> </p>
 
 <a href="https://github.com/png261">
   <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
