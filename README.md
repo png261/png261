@@ -1,4 +1,4 @@
-## Hola, I'm [PhuongNguyen!] 👋
+## Hola, I'm PhuongNguyen! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=png261&label=Views&color=blue&style=plastic" alt="png261" /> </p>
 
