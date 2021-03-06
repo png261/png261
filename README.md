@@ -23,7 +23,10 @@
 <a href="https://github.com/png261">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=png261&theme=light&hide_langs_below=1" />
 </a>
+<a href="https://github.com/png261/musicplayer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=musicplayer&theme=light" />
 
+</a>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
