@@ -31,6 +31,9 @@
 <br/>
 <br/>
 
+<a href="https://github.com/png261/tic-tac-toe">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=tic-tac-toe&theme=light" />
+</a>
 <a href="https://github.com/png261/musicplayer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=musicplayer&theme=light" />
 </a>
