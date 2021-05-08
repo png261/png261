@@ -38,8 +38,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=musicplayer&theme=light" />
 </a>
 
-<br/>
-
 <a href="https://github.com/png261/minimal-note">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=minimal-note&theme=light" />
 </a>
