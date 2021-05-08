@@ -40,11 +40,11 @@
 <a href="https://github.com/png261/weather-forecast">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=weather-forecast&theme=light" />
 </a>
-<a href="https://github.com/png261/minimal-note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=minimal-note&theme=light" />
-</a>
 <a href="https://github.com/png261/todo-list">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=todo-list&theme=light" />
+</a>
+<a href="https://github.com/png261/minimal-note">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=minimal-note&theme=light" />
 </a>
 <div align="center">
 
