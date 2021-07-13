@@ -1,4 +1,4 @@
-## Hola, I'm PhuongNguyen! 👋
+## Hi, I'm PhuongNguyen! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=png261&label=Views&color=blue&style=plastic" alt="png261" /> </p>
 
@@ -31,6 +31,9 @@
 <br/>
 <br/>
 
+<a href="https://github.com/png261/png-store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=png-store&theme=light" />
+</a>
 <a href="https://github.com/png261/png-chat-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=png-chat-app&theme=light" />
 </a>
