@@ -19,7 +19,6 @@
 <code>SCSS</code>,
 <code>Javascript</code>,
 <code>Regular Expression</code>,
-<code>Wordpress</code>,
 <code>ReactJS</code>,
 <br/>
 <br/>
