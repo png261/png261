@@ -24,11 +24,11 @@
 <br/>
 <br/>
 
-<h4>
+<h3>
   <strong>Some new projects:</strong>
-</h4>
+</h3>
 <br/>
-<br/>
+
 <a href="https://github.com/png261/png-store">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=png-store&theme=light" />
 </a>
