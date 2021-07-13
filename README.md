@@ -4,12 +4,13 @@
 
 <a href="https://github.com/png261">
   <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
+</a>\
 <a href="https://codepen.io/e90ca063-c36b-477c-88d8-71f917c156ef">
   <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codepen.svg"/>
 </a>
-
+<a href="https://www.codewars.com/users/PNG%20/badges/large">
+  <img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codewars.svg"/>
+</a>
 
 <br/>
 <br/>
