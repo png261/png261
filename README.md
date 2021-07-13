@@ -24,7 +24,7 @@
 <br/>
 <br/>
 
-**Some new projects:** 
+<h1>**Some new projects:** </h1>
 <br/>
 <a href="https://github.com/png261/png-store">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=png-store&theme=light" />
