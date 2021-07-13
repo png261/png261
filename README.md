@@ -24,33 +24,5 @@
 <br/>
 <br/>
 
-<h3>
-  <strong>Some new projects:</strong>
-</h3>
-<br/>
-
-<a href="https://github.com/png261/png-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=png-store&theme=light" />
-</a>
-<a href="https://github.com/png261/png-chat-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=png-chat-app&theme=light" />
-</a>
-<a href="https://github.com/png261/tic-tac-toe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=tic-tac-toe&theme=light" />
-</a>
-<a href="https://github.com/png261/musicplayer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=music-player&theme=light" />
-</a>
-<a href="https://github.com/png261/weather-forecast">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=weather-forecast&theme=light" />
-</a>
-<a href="https://github.com/png261/todo-list">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=todo-list&theme=light" />
-</a>
-<a href="https://github.com/png261/minimal-note">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=png261&repo=minimal-note&theme=light" />
-</a>
-<div align="center">
-
-</div>
+</dv>
 
