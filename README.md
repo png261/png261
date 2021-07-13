@@ -17,12 +17,3 @@
 
 <br/>
 
-<a href="https://github.com/png261">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=png261&theme=light&hide_langs_below=1" />
-</a>
-
-<br/>
-<br/>
-
-</dv>
-
