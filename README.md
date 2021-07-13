@@ -14,10 +14,6 @@
 <br/>
 <br/>
 
-
-- 🌱 I’m currently learning more.
-- 😄 Pronouns: He/His
-
 [![GitHub png261](https://img.shields.io/github/followers/png261?label=follow&style=social)](https://github.com/png261)
 
 **Languages and Tools:**  
