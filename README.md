@@ -9,6 +9,9 @@
 <a href="https://www.codewars.com/users/Phuong%20Nguyen">
   <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codewars.svg"/>
 </a>
+<a href="https://www.freecodecamp.org/fcc135e3fe8-06c1-4ba6-8168-7c3055c91c98">
+  <img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/freecodecamp.svg"/>
+</a>
 
 <br/>
 <br/>
